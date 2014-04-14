@@ -1,1 +1,21 @@
 {input}|{parser}|{output}
+
+#####{input}
+* file
+* stdin
+* tcp
+* udp
+* rest
+
+#####{parser}
+* regex
+* json
+
+#####{output}
+* file
+* stdout
+* tcp
+* udp
+* elastic search
+* solr
+* rest
