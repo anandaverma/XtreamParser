@@ -1,4 +1,4 @@
-logninja
+warrior
 ========
 
-A GPU based super fast log/event processor
+A erlang based super fast concorrent log/event parser
