@@ -1,4 +1,4 @@
 warrior
 ========
 
-erlang based super fast concorrent log/event parser
+go-lang based super fast concorrent log/event parser
